@@ -2,7 +2,9 @@
 title: "PlumbingMaps"
 author: "Taylor Buck"
 date: "11/23/2020"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, echo=FALSE}
@@ -259,7 +261,7 @@ leaflet() %>%
   ) %>%
   addLegend(
     colors = c("#005a32", "#238b45", "#41ab5d", "#74c476", "#a1d99b", "#c7e9c0", "#e5f5e0", "f7fcf5"),
-    label = c("4,000 - 3,500%", "3,500 - 3,00%", "3,000 - 2,500%", "2,500 - 2,000", "2,000 - 1,500", "1,500 - 1,000,", "1,000 - 5,000", "5,000 - 0"),
+    label = c("4,000 - 3,500%", "3,500 - 3,000%", "3,000 - 2,500%", "2,500% - 2,000%", "2,000% - 1,500%", "1,500% - 1,000%", "1,000% - 500%", "500% - 0%"),
     position = "bottomright",
     opacity = 1,
     title = "Percentage change of homes <br /> with insufficient plumbing"
