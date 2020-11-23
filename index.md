@@ -1,6 +1,6 @@
 # What impact do minimum housing codes have on a county?
 
-It’s 2020, and approximately 12,500 homes across North Carolina lack some form of plumbing, according to data from the 2018 American Community Survey. Since around 1940, state law has given counties and municipalities the ability to establish minimum housing codes, which give local officials the right to require certain substandard housing conditions, such as inadequate plumbing, to be repaired. Only 23 counties have such ordinances — leaving the thousands of North Carolinians without proper plumbing with few places to turn as the coronavirus pandemic rages on.
+It’s 2020, and approximately 12,500 homes across North Carolina lack some form of plumbing, according to data from the 2018 American Community Survey. Since around 1940, state law has given counties and municipalities the ability to establish minimum housing codes, which give local officials the right to require certain substandard housing conditions, such as inadequate plumbing, to be repaired. Only 27 counties of North Carolina's 100 have such ordinances — leaving the thousands of North Carolinians without proper plumbing with few places to turn as the coronavirus pandemic rages on.
 
 Check out these maps to explore the role of minimum housing codes in North Carolina
 
