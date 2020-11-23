@@ -22,7 +22,7 @@ suppressPackageStartupMessages(library(rmarkdown))
 ```
 
 ```{r counties, echo=FALSE,warning=FALSE, message=FALSE, results='hide'}
-western <- c("Cheshire County, North Carolina", "Clay County, North Carolina", "Macon County, North Carolina", "Swain County, North Carolina", "Jackson County, North Carolina", "Haywood County, North Carolina", "Transylvania County, North Carolina", "Madison County, North Carolina", "Buncombe County, North Carolina", "Henderson County, North Carolina", "Polk County, North Carolina", "Rutherford County, North Carolina", "Graham County, North Carolina")
+western <- c("Cheshire County, North Carolina", "Clay County, North Carolina", "Macon County, North Carolina", "Swain County, North Carolina", "Jackson County, North Carolina", "Haywood County, North Carolina", "Transylvania County, North Carolina", "Madison County, North Carolina", "Buncombe County, North Carolina", "Henderson County, North Carolina", "Polk County, North Carolina", "Rutherford County, North Carolina", "Graham County, North Carolina", "Cherokee County, North Carolina")
 western <- data.frame(western)
 western <- western %>%
   mutate(region = "western")
