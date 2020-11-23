@@ -87,7 +87,8 @@ names(codes)[names(codes) == "county"] <- "County"
 
 codes2 <- codes <- rbind(withcode, withoutcode)
 
-dec2 <- read_csv("/Users/taylorbuck/Desktop/390/final-project-korie/dec1970county.csv")
+getwd()
+dec2 <- read_csv("/Users/taylorbuck/Desktop/390/taylorbuck.github.io/dec1970county.csv")
 
 names(dec2)[names(dec2) == "ORG_H134001"] <- "1unitallplumbing"
 names(dec2)[names(dec2) == "ORG_H134002"] <- "1unitlacking"
