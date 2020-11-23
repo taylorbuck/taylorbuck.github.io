@@ -1,5 +1,5 @@
 ---
-title: "PctInsufficient"
+title: "Percentage Insufficient Plumbing"
 author: "Taylor Buck"
 date: "11/23/2020"
 output: html_document
@@ -285,9 +285,9 @@ plot10_data <- group_by(plot10_data, group) %>%
 plot10_data <- plot10_data %>%
   mutate(pctincomplete = ((incomplete / occupied)) * 100)
 
-palette10 <- colorNumeric("Greens", domain = plot10_data$pctincomplete)
-
 plot10_data$pctincomplete <- round(plot10_data$pctincomplete, 2)
+
+palette10 <- colorNumeric("Greens", domain = plot10_data$pctincomplete)
 
 popup10 <- paste0("In the ", "<strong>", plot10_data$group, "</strong> region, ", "<strong>", plot10_data$pctincomplete, "%</strong> of homes had insufficient plumbing in 2018.")
 
