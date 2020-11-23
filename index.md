@@ -4,7 +4,7 @@ It’s 2020, and approximately 12,500 homes across North Carolina lack some form
 
 Check out these maps to explore the role of minimum housing codes in North Carolina
 
-# Map links
+# The Maps
 
 - [What is the overall number of homes with insufficient plumbing in NC's regions?](https://taylorbuck.github.io/taylorbuck.github.io/OverallNumber.html)
 
@@ -13,3 +13,7 @@ Check out these maps to explore the role of minimum housing codes in North Carol
 - [How has the percentage of homes with insufficient plumbing changed between 1970 and 2018 in each NC region?](https://taylorbuck.github.io/taylorbuck.github.io/PctChange.html)
 
 - [In each NC region, how has the percentage of homes with insufficient plumbing changed between 1970 and 2018 in counties with minimum housing codes compared to counties without minimum housing codes?](https://taylorbuck.github.io/taylorbuck.github.io/PlumbingMaps.html)
+
+# The Story
+
+- [Link to the story](https://docs.google.com/document/d/1ESdy1cCQgn5ShrbhkNq5X0xdeHYv6pgCjXuqtt21WFs/edit?usp=sharing&usp=embed_facebook)
